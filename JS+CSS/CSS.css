@@ -15,11 +15,11 @@
 
             /*font size here*/
 
-            p.h1{
+            .h1{
                 font-size: 60px
             }
 
-            p.p{
+            .p{
                 font-size:25px;
             }
             /*Text color*/
