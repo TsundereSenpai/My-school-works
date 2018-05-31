@@ -1,0 +1,34 @@
+           body{
+                background-image: url("/My-school-works/Picture/Nather_Brick.png");
+            }
+
+            /*Boarder*/
+            div.d{
+                margin: 100px auto;
+                padding:25px;
+                width: 60%;
+                border: 0px solid #414141;
+                border-radius: 8px;
+                background-color: #414141
+                ;
+            }
+
+            /*font size here*/
+
+            p.h1{
+                font-size: 60px
+            }
+
+            p.p{
+                font-size:25px;
+            }
+            /*Text color*/
+            body{
+                color:#ffffff;
+            }
+
+            /*text font here*/
+
+            body {
+    font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+}
